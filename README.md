@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @elixerofdoom
-- 👀 I’m interested in vidya
-- 🌱 I’m currently learning python
+@elixerofdoom
+vidya & kino films
+python newbie
 
 
 <!---
