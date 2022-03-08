@@ -1,5 +1,4 @@
 @elixerofdoom
-vidya & kino films
 python newbie
 
 
